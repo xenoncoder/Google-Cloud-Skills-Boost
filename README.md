@@ -1,7 +1,12 @@
 # Google Cloud Skills Boost
 
-Repo for All Quest & Labs on Google Cloud Skills Boost/Qwiklabs
+Repository for All Quest & Labs on Google Cloud Skills Boost/Qwiklabs
 
-1. Level Introductory
+<ol>
+  <li>Level Introductory</li>
   
-  a. [Google Cloud Essentials](https://www.cloudskillsboost.google/quests/23)
+  <ol type="a">
+    <li><a href="https://www.cloudskillsboost.google/quests/23">Google Cloud Essentials</a></li>
+  </ol>
+  
+</ol>
